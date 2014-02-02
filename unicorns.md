@@ -310,7 +310,7 @@ Why not attempt to solve to problem by starting with documentation and then refe
 
 Talking to the machine about code is a hard problem.
 
-* Good example code is not necessarily what the runtime wants
+* Good example code is not necessarily what the compiler wants
 * Linking to code lines is brittle
 * Linking to semantic units? (e.g. "Body of this method")
 
