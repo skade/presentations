@@ -252,7 +252,7 @@ Implemented by [walkhub](http://walkhub.net).
 
 ## You might see a pattern
 
-All these approches start out in the formal world and build towards written text from there. They automatically follow the structure of the code.
+All these approches start out in with testing formats and build towards written text from there. They automatically follow the structure of the code.
 
 ## Literate programming
 
