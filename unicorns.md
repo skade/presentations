@@ -181,7 +181,7 @@ Sidestepping a problem isn't much fun.
 
     Feature: output_hello_world
 
-      We can output strings "hello world" using the puts
+      We can output the string "hello world" using the puts
       method.
 
       Scenario: Use puts to output "hello world".
@@ -193,7 +193,7 @@ Sidestepping a problem isn't much fun.
 
 ## Gherkin/Cucumber
 
-This write a Ruby file, evaluates it and tests your assumptions.
+This writes a Ruby file, evaluates it and tests your assumptions.
 It uses Gherkins description features.
 
 ## Gherkin/Cucumber
