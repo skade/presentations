@@ -136,7 +136,7 @@ If you use downstream libraries and document interactions with them, you have to
 Don't include code in your documentation.
 
 * Only high-level documentation of concepts
-* Code goes to examples
+* Code goes to `/examples`
 
 ## Issues
 
