@@ -306,9 +306,8 @@ Expect organizers to:
 I've seen all of this happening:
 
 * anonymous and open attacks
-* threats
-* exposures
-* discriminations because of disabilities
+* threats and exposures
+* discrimination because of disabilities
 * mobbing with impersonations
 
 Programming communities are no different.
