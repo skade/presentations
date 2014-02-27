@@ -37,7 +37,7 @@ style: |
     #dont-join-shitstorms h2 {
         color: red;
     }
-    #think-before-retweet h2 {
+    #think-before-you-tweet h2 {
         color: red;
     }
 ---
@@ -73,7 +73,7 @@ style: |
 
 * Got involved in a music community
 * Metal to Rock
-* Showed some sense for right and wrong
+* Showed some sense for cooperation
 
 ## **2000: Mod bit**
 
@@ -114,14 +114,13 @@ style: |
 * Chair of eurucamp and JRubyConf.eu
 * Host of 2 users groups
 * Still got that Mod-Bit...
+* Never migrated the board to Ruby
 
 ## **Conflicts**
 
 ## **Everyone vs. PHP** 
 
 ## **Ruby vs. Java** 
-
-## **Python vs. Ruby** 
 
 ## **OO vs. functional**
 
@@ -135,7 +134,7 @@ style: |
 ![](pictures/full_metal/ruby_community.png)
 
 
-## The Ruby communities
+## There is no Ruby community
 {:.cover .Picture .RubyCommunities}
 
 ![](pictures/full_metal/ruby_communities.png)
@@ -146,13 +145,13 @@ style: |
 
 * "close" is not necessarily physical distance
 * discussions and movements can be more ongoing
-* physical meetings are still very important
+* physical meetings are still very important and act as roots
 
 ## Open-source communities
 
 * work-centered
 * sometimes makes community-effort take the back seat
-* commercial interest
+* commercial interest gives both momentum and friction
 
 ## Work-Centered
 {:.cover .Picture .WorkCentered .noHead}
@@ -173,6 +172,7 @@ style: |
 ## Important traits
 
 * Good at discourse
+  - discussions about music are good training
 * Seriousness
 * Empathy
 * Ethics
@@ -185,7 +185,7 @@ Backchannels are the most important tool.
 
 * to deal with personal things
 * criticism without accusations
-* to organize concerted action
+* to organize concerted action and behaviours
 
 ...Thats why you rarely see organization happening in the open.
 
@@ -195,10 +195,6 @@ Impactful action takes time. Expect days after
 any event for people to get everything together.
 
 Example: [Ruby Berlin Community Statement](http://rubyberlin.org/2013-10-statement-community.html) was 4 days of work.
-
-## Clear Communication
-
-Expect clear communication from all organizers.
 
 ## Twitter
 
@@ -216,18 +212,18 @@ Bad for:
 
 ## **Don't join shitstorms**
 
-## **Think before retweet**
+## **Think before you tweet**
 
-## Change (without Twitter)
+## Global Change (without Twitter)
 
 1. have an agenda
 2. have a looooong breath
 3. reach out
 
-## Change
+## Global Change
 
 1. start locally
-2. introduce your ideas there
+2. introduce and validate your ideas there
 3. spread to other subcommunities
 
 ## No-gos
@@ -238,11 +234,11 @@ Bad for:
 
 ## **Base Democracy**
 
-## **OMG, Politics???**
+## **Wait, Politics???**
 
 ## **My Agenda**
 
-## **Opposition**
+## **1. Opposition**
 
 ## Problematic Characters
 
@@ -276,19 +272,31 @@ Be careful, the recipient decides on the message!
 
 ## **State your dislike!**
 
+## Have expectations!
+
+Expect organizers to:
+
+* communicate clearly
+* bring communities forward
+* stay up to speed with current movements
+* hold your moral values
+
 ## **Polite and thoughtful**
 
 ## **Backchannel!**
 
 ## Sad truth
 
-Anonymous and open attacks, threats, discriminations and
-scheming are not unusual in online communities. Programming
-communities are no different.
+I've seen all of this happening:
 
-...Cover victims. Don't overdiscuss in such situations.
+* anonymous and open attacks
+* threats
+* discriminations because of disabilities
+* mobbing with impersonations
 
-## **Diversity**
+Programming communities are no different.
+
+## **2. Diversity**
 
 ## Diversity
 
@@ -296,7 +304,15 @@ communities are no different.
 
 > Yes, and its much more fun like that. - me, today
 
-## Reversal
+## Diversity
+
+Diversity is much more than bringing woman (back) into the industry.
+
+...Diversity is about allowing anyone to participate who shares our basic interests and morals.
+
+## **Technology**
+
+## Diversity
 
 Hard topic to wrap your head around.
 
@@ -316,8 +332,6 @@ Good organizers can support others even if they
 cannot relate to their problems.
 
 ## **Empathy & Seriousness**
-
-## **Technology**
 
 ## Codification
 
