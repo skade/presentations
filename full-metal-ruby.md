@@ -264,7 +264,10 @@ Bad for:
 
 ## Problematic Characters
 
-Everyone should be welcome, but shown the door for misbehaving constantly.
+Everyone should be welcome, but:
+
+* be called out for misbehaving
+* shown the door for repeat offences
 
 ## Do we need to be bad?
 
