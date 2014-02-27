@@ -218,7 +218,7 @@ Bad for:
 
 * discourse
 * almost anything else of interest for Organizers
-* ...especially not an engine for change
+* ...being used as an engine for change
 
 ## **Don't join shitstorms**
 
@@ -249,7 +249,7 @@ Bad for:
 
 ## **Wait, Politics???**
 
-## **Everything's policial**
+## **Everything's political**
 
 ## **My Agenda**
 
