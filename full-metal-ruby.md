@@ -284,7 +284,7 @@ There are thin lines between:
 * A pointed comment and dismissal of other peoples hard work
 * A joke and an insult
 
-Be careful, about the recipient!
+Be careful about the recipient!
 
 ## **State your dislike!**
 
