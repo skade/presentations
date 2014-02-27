@@ -207,6 +207,7 @@ Good for:
 
 Bad for:
 
+* discourse
 * almost anything else of interest for Organizers
 * ...especially not an engine for change
 
@@ -218,13 +219,15 @@ Bad for:
 
 1. have an agenda
 2. have a looooong breath
-3. reach out
+3. convince others
 
 ## Global Change
 
 1. start locally
 2. introduce and validate your ideas there
 3. spread to other subcommunities
+
+## **Outreach**
 
 ## No-gos
 
@@ -236,16 +239,16 @@ Bad for:
 
 ## **Wait, Politics???**
 
+## **Everything's policial**
+
 ## **My Agenda**
 
 ## **1. Opposition**
 
 ## Problematic Characters
 
-* Trolls
+* Trolls, Professional Cynics, Devils Advocates
 * Help Vampires
-* Professional Cynics
-* Devils Advocates
 * People incapable of respecting personal space
 * Everyone scaring off beginners
 
@@ -261,14 +264,14 @@ Everyone should be welcome, but shown the door for misbehaving constantly.
 
 Complain politely everywhere you see such behaviour.
 
-## Wait, thought-police?
+## Wait, thought police?
 
 There are thin lines between:
 
 * A pointed comment and dismissal of other peoples hard work
 * A joke and an insult
 
-Be careful, the recipient decides on the message!
+Be careful, about the recipient!
 
 ## **State your dislike!**
 
@@ -291,10 +294,15 @@ I've seen all of this happening:
 
 * anonymous and open attacks
 * threats
+* exposures
 * discriminations because of disabilities
 * mobbing with impersonations
 
 Programming communities are no different.
+
+## We need to moderate the 1%
+
+[Ryan Davis - Why we need to moderate the 1%](http://www.confreaks.com/videos/1085-cascadiaruby2012-occupy-ruby-why-we-need-to-moderate-the-1)
 
 ## **2. Diversity**
 
