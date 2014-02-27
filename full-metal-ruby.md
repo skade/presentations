@@ -327,6 +327,8 @@ Diversity is much more than bringing woman (back) into the industry.
 
 ...Diversity is about allowing anyone to participate who shares our basic interests and morals.
 
+...Diversity is a mindset, not a list of boxes to tick.
+
 ## **Technology**
 
 ## Diversity
