@@ -233,7 +233,8 @@ Bad for:
 
 1. start locally
 2. introduce and validate your ideas there
-3. spread to other subcommunities
+3. control your message
+4. spread to other subcommunities
 
 ## **Outreach**
 
