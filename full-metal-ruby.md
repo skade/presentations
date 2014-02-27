@@ -139,6 +139,14 @@ style: |
 
 ![](pictures/full_metal/ruby_communities.png)
 
+## The Ruby community
+
+* very opinion-driven and personal
+* clashes are often
+* values curiosity
+* definitely imperfect
+* MINASWAN
+
 ## **Technology**
 
 ## Online communities
