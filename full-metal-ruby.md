@@ -332,8 +332,6 @@ Diversity is much more than bringing woman (back) into the industry.
 
 ...Diversity is a mindset, not a list of boxes to tick.
 
-## **Technology**
-
 ## Diversity
 
 Hard topic to wrap your head around.
