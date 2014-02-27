@@ -168,7 +168,7 @@ style: |
 
 ...Anyone who wants to mold and change the community.
 
-## **Communication**
+## **Communicators**
 
 ## Important traits
 
