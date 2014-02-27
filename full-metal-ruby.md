@@ -30,20 +30,309 @@ style: |
         width:0.72em;
         height:0.72em;
         }
+    .noHead  h2 {
+        display: inline-block;
+        visibility: hidden;
+    }
+    #dont-join-shitstorms h2 {
+        color: red;
+    }
+    #think-before-retweet h2 {
+        color: red;
+    }
 ---
 
-# Full Metal Rüby {#Cover}
+# Full Metal Rüby
+{:.cover .Picture .FullMetal .noHead}
 
 ![](pictures/cover.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
 
-## Questions
+## 1988
+{:.cover .Picture .Turku}
+
+![](pictures/full_metal/turku.png)
+
+## 1988
+{:.cover .Picture .Inertia .noHead}
+
+![](pictures/full_metal/inertia.png)
 
 
-## Foobar
+## Fast forward: 1998
 
-## Tools
-{:.cover #Picture}
+## **INTERNET**
 
-![](pictures/welder.jpg)
-<!-- photo by John Carey, fiftyfootshadows.net -->
+## **BORING**
+
+## 1999: Let's go metal
+{:.cover .Picture .Metal .noHead}
+
+![Metal](pictures/full_metal/metal.jpg)
+
+## Let's go metal
+
+* Got involved in a music community
+* Metal to Rock
+* Showed some sense for right and wrong
+
+## **2000: Mod bit**
+
+## Let's go metal
+
+* Got involved in a music community
+* Metal to rock
+* Showed some sense for cooperation
+* Moderated porn pictures in profiles before I was legal to view them
+
+## Fun fact
+
+![Wacken 2011](pictures/full_metal/wacken-2011.jpg)
+
+## **Conflicts**
+
+## **Metal vs. Techno**
+
+## **Black vs. True Metal**
+
+## **Everyone vs. Nu Metal** 
+
+## 2003: Ruby
+
+* Started learning Ruby
+* Joined a german bulleting board
+* Showed some sense for cooperation
+* Got a Mod-Bit
+
+## Rubyforen
+{:.cover .Picture .RubyForen .noHead}
+
+![Rubyforen](pictures/full_metal/rubyforen.png)
+
+## Today!
+
+* Chair of the Ruby Berlin e.V.
+* Chair of eurucamp and JRubyConf.eu
+* Host of 2 users groups
+* Still got that Mod-Bit...
+
+## **Conflicts**
+
+## **Everyone vs. PHP** 
+
+## **Ruby vs. Java** 
+
+## **Python vs. Ruby** 
+
+## **OO vs. functional**
+
+## **We're not different**
+
+## **Full Metal Rüby**
+
+## The Ruby community
+{:.cover .Picture .RubyCommunity}
+
+![](pictures/full_metal/ruby_community.png)
+
+
+## The Ruby communities
+{:.cover .Picture .RubyCommunities}
+
+![](pictures/full_metal/ruby_communities.png)
+
+## **Technology**
+
+## Online communities
+
+* "close" is not necessarily physical distance
+* discussions and movements can be more ongoing
+* physical meetings are still very important
+
+## Open-source communities
+
+* work-centered
+* sometimes makes community-effort take the back seat
+* commercial interest
+
+## Work-Centered
+{:.cover .Picture .WorkCentered .noHead}
+
+![Work Driven](pictures/full_metal/work_driven.png)
+
+## Organizers/Moderators
+
+* Forum/chat moderators
+* Mailing list moderators
+* Event organizers (meetups, conferences)
+* Bugtracker work/Release planning
+
+...Anyone who wants to mold and change the community.
+
+## **Communication**
+
+## Important traits
+
+* Good at discourse
+* Seriousness
+* Empathy
+* Ethics
+
+...Being able to get hold of a good Barista is completely optional.
+
+## Backchannels
+
+Backchannels are the most important tool.
+
+* to deal with personal things
+* criticism without accusations
+* to organize concerted action
+
+...Thats why you rarely see organization happening in the open.
+
+## Time
+
+Impactful action takes time. Expect days after
+any event for people to get everything together.
+
+Example: [Ruby Berlin Community Statement](http://rubyberlin.org/2013-10-statement-community.html) was 4 days of work.
+
+## Clear Communication
+
+Expect clear communication from all organizers.
+
+## Twitter
+
+Good for:
+
+* Outreach
+* Announcements
+
+## Twitter
+
+Bad for:
+
+* almost anything else of interest for Organizers
+* ...especially not an engine for change
+
+## **Don't join shitstorms**
+
+## **Think before retweet**
+
+## Change (without Twitter)
+
+1. have an agenda
+2. have a looooong breath
+3. reach out
+
+## Change
+
+1. start locally
+2. introduce your ideas there
+3. spread to other subcommunities
+
+## No-gos
+
+* Don't pressure people into opinions or statements
+* Don't attack unconvincable people
+  - You can shun them, if you want to
+
+## **Base Democracy**
+
+## **OMG, Politics???**
+
+## **My Agenda**
+
+## **Opposition**
+
+## Problematic Characters
+
+* Trolls
+* Help Vampires
+* Professional Cynics
+* Devils Advocates
+* People incapable of respecting personal space
+* Everyone scaring off beginners
+
+## Problematic Characters
+
+Everyone should be welcome, but shown the door for misbehaving constantly.
+
+## Do we need to be bad?
+
+* An technical wonderchild should not be allowed to insult others
+* New committers should never be chided for incompetence
+* Abusive natures should be asked to leave communication to others
+
+Complain politely everywhere you see such behaviour.
+
+## Wait, thought-police?
+
+There are thin lines between:
+
+* A pointed comment and dismissal of other peoples hard work
+* A joke and an insult
+
+Be careful, the recipient decides on the message!
+
+## **State your dislike!**
+
+## **Polite and thoughtful**
+
+## **Backchannel!**
+
+## Sad truth
+
+Anonymous and open attacks, threats, discriminations and
+scheming are not unusual in online communities. Programming
+communities are no different.
+
+...Cover victims. Don't overdiscuss in such situations.
+
+## **Diversity**
+
+## Diversity
+
+> Is that really a topic? - me, 5 years ago
+
+> Yes, and its much more fun like that. - me, today
+
+## Reversal
+
+Hard topic to wrap your head around.
+
+## **Who is not here?**
+
+## Individuals
+
+Everyone has very particular and personal
+reasons for not participating. Not
+all can be cared for, but many.
+
+## **Don't dismiss**
+
+## Don't dismiss
+
+Good organizers can support others even if they
+cannot relate to their problems.
+
+## **Empathy & Seriousness**
+
+## **Technology**
+
+## Codification
+
+Wouldn't it be nice if we could write that down for everyone to see?
+
+## **Code of Conduct**
+
+## A final quote
+
+> I’m always uncomfortable at a lot of conferences because I don’t party, and I’m always left to feel like that’s bad, especially as a speaker.
+
+> And I personally feel bad b/c I feel like I’m being anti-social (esp if I’m a speaker), but I don’t like being around stupidly drunk people.
+
+## **Spoilsport?**
+
+## **No**
+
+## **You're Welcome!**
