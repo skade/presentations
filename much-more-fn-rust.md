@@ -176,7 +176,9 @@ Rust is still in construction. Run `master`, keep it that way until 1.0.
 
 When can you ever see a language in construction so openly?
 
-...commit access is really easy to get with quite some low-hanging fruits.
+...but the end is visible
+
+...patches are very welcome
 
 ## Great, vibrant community already
 
