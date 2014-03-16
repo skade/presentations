@@ -54,7 +54,7 @@ style: |
 * ... Imperative with functional parts
 * ... low-level
 * ... `null`-free, typed and safe
-* ... Strictly better than Java or Clojure (by default)
+* ... strictly better than Java or Clojure (by default)
 
 ## Braces, as Richie indented
 
@@ -178,7 +178,7 @@ When can you ever see a language in construction so openly?
 
 ...commit access is really easy to get with quite some low-hanging fruits.
 
-## Great community
+## Great, vibrant community already
 
 * Strong, vibrant community with strict rules
 * Enforces it strongly
