@@ -188,3 +188,4 @@ When can you ever see a language in construction so openly?
 
 * http://rustlang.org
 * http://github.com/mozilla/rust
+* http://www.rustforrubyists.com/ by Steve Klabnik
