@@ -191,3 +191,5 @@ When can you ever see a language in construction so openly?
 * http://rustlang.org
 * http://github.com/mozilla/rust
 * http://www.rustforrubyists.com/ by Steve Klabnik
+* http://cmr.github.io for running news
+* http://jvns.ca/blog/2014/03/12/the-rust-os-story/
