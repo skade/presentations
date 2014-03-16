@@ -172,7 +172,7 @@ Rust is still in construction. Run `master`, keep it that way until 1.0.
 
 ...Currently for mind-blowing only.
 
-## That's `fn`
+## That's `fn` exciting
 
 When can you ever see a language in construction so openly?
 
