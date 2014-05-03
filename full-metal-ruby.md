@@ -84,10 +84,6 @@ style: |
 * Showed some sense for cooperation
 * Moderated porn pictures in profiles before I was legal to view them
 
-## Fun fact
-
-![Wacken 2011](pictures/full_metal/wacken-2011.jpg)
-
 ## **Conflicts**
 
 ## **Metal vs. Techno**
@@ -273,6 +269,7 @@ Everyone should be welcome, but:
 
 * An technical wonderchild should not be allowed to insult others
 * New committers should never be chided for incompetence
+* People should not be attacked for their inability to speak a language
 * Abusive natures should be asked to leave communication to others
 
 Complain politely everywhere you see such behaviour.
@@ -354,6 +351,12 @@ cannot relate to their problems.
 Wouldn't it be nice if we could write that down for everyone to see?
 
 ## **Code of Conduct**
+
+## They are working!
+
+> Without a Code of Conduct, I wouldn't have come to Ruby Sauna.
+> I feared that the organizers weren't aware of the inherent problems of
+> the format, the CoC cleared that up.
 
 ## A final quote
 
