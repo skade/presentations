@@ -94,7 +94,7 @@ style: |
 
 ## **Black vs. True Metal**
 
-## **Everyone vs. Nu Metal** 
+## **Everyone vs. Nu Metal**
 
 ## 2003: Ruby
 
@@ -118,9 +118,9 @@ style: |
 
 ## **Conflicts**
 
-## **Everyone vs. PHP** 
+## **Everyone vs. PHP**
 
-## **Ruby vs. Java** 
+## **Ruby vs. Java**
 
 ## **OO vs. functional**
 
