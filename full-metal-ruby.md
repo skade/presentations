@@ -116,7 +116,7 @@ This talk references music and includes badly written fanfic. Also positivity.
 * [twitter.com/argorak](http://twitter.com/argorak)
 * Chair of the Ruby Berlin e.V.
 * Chair of eurucamp and JRubyConf.eu
-* Host of 2(?) users groups
+* Host of 3 user groups (Elasticsearch/Rust/general)
 * Still got that Mod-Bit...
 * Never migrated the board to Ruby
 
@@ -258,7 +258,7 @@ It's their show.
 * Empathy
 * Ethics
 
-...Being able to get hold of a good Barista is completely optional.
+...Being able to get hold of a good barista is completely optional.
 
 ## Backchannels
 
@@ -266,6 +266,7 @@ Backchannels are the most important tool.
 
 * to deal with personal things
 * criticism without accusations
+* discussions without passer-bys
 * to organize concerted action and behaviours
 
 ...Thats why you rarely see organization happening in the open.
@@ -327,6 +328,12 @@ any event for people to get everything together.
 
 Example: [Ruby Berlin Community Statement](http://rubyberlin.org/2013-10-statement-community.html) was 4 days of work.
 
+## Time
+
+It's absolutely worth it.
+
+The [eurucamp accessibility statement](http://2014.eurucamp.org/accessibility/) and the [Berlin Code of Conduct](http://rubyberlin.github.io/code-of-conduct/) came out of that.
+
 ## Twitter
 
 Good for:
@@ -344,6 +351,13 @@ Bad for:
 * ...being used as an engine for change
 
 ## **Be wary of shitstorms**
+
+## Snark
+
+<blockquote class="twitter-tweet" lang="en"><p>OH: &quot;days since last Javascript Framework: NaN&quot;</p>&mdash; Florian Gilcher (@Argorak) <a href="https://twitter.com/Argorak/status/570330088949944321">February 24, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Snark travels incredibly fast, positive messaging not.
 
 ## **Think before you tweet**
 
@@ -410,6 +424,12 @@ There are thin lines between:
 
 Be careful about the recipient!
 
+## Wait, thought police?
+
+> I don't know what's wrong with walking on egg-shells?
+
+- Sven Fuchs, Rails Girls Summer of Code
+
 ## **State your dislike!**
 
 ## Have expectations!
@@ -433,6 +453,7 @@ I've seen all of this happening:
 * threats and exposures
 * discrimination because of disabilities
 * mobbing with impersonations
+* people seriously triggered by thoughtless use of triggering material
 
 Programming communities are no different.
 
@@ -456,7 +477,6 @@ Diversity is much more than bringing woman (back) into the industry.
 
 ...Diversity is a mindset, not a list of boxes to tick.
 
-
 ## **Who is not here?**
 
 ## Individuals
@@ -478,6 +498,8 @@ cannot relate to their problems.
 
 Wouldn't it be nice if we could write that down for everyone to see?
 
+## **Policies**
+
 ## **Code of Conduct**
 
 ## They are working!
@@ -498,6 +520,14 @@ Conferences caring about accessiblity and promoting that are rare today. Even sm
 
 Community response was very good and we have a 1:1 match of speakers to mentors.
 
+## Handling procedures
+
+I tried that out first-hand this year.
+
+## **Writing has a lot of power**
+
+## **Also over yourself**
+
 ## It's a lot of work
 
 * Appreciate those that do it
@@ -507,6 +537,10 @@ Community response was very good and we have a 1:1 match of speakers to mentors.
 ## 3. More inter-community relationships
 
 We don't need to do all that work alone.
+
+* I love [jsconf.eu](http://jsconf.eu)
+* Djangocon Europe raises [the bar](http://2015.djangocon.eu/welcome/)
+* RubyConf Australia rewrote our [Accessibility Statement](http://rubyconf.org.au/2015/accessibility)
 
 ## A final quote
 
@@ -519,12 +553,3 @@ We don't need to do all that work alone.
 ## **No**
 
 ## **You're Welcome!**
-
-## mrgn
-
-We've got this new thing coming up...
-
-* [http://mrgn.in/berlin](http://mrgn.in/berlin)
-* [@MrgnBerlin](http://twitter.com/MrgnBerlin)
-* For everyone, of every technology
-* From 8:30-10:00 in the _morning_, next Thursday!
